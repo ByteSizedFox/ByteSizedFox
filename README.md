@@ -1,6 +1,6 @@
 # Hi, I'm ByteSizedFox!
 
-I'm a hobbyist developer who likes making games, solving problems, and automating difficult tasks in my life using my experience.
+I'm a hobbyist developer who likes making games and solving problems.
 
 ## Technologies
 - **Languages**: C, C++, javascript, HTML/CSS, java, python
